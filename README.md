@@ -8,7 +8,7 @@ You can try not to use the most powerful model to save costs (the price of davan
 Some models that are not particularly powerful, such as  
 Curie's price is $0.0020/1K tokens  
 Babbage price is $0.0005/1K tokens  
-These models have their own advantages. Please refer to the official documents above for details (there are options in the program)  
+These models have their own advantages. Please refer to the following official documents for details (there are options in the program)  
 ### [About Model Selection](https://platform.openai.com/docs/models)  
 ### Prepare to build a special tool for writing code based on [CodeX] : )  
 ### [Check the number of your tokens](https://platform.openai.com/tokenizer)Is it really necessary to do this? Of course, but only when your balance is short : )  
