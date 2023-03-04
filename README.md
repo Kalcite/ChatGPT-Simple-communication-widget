@@ -14,7 +14,7 @@ These models have their own advantages. Please refer to the following official d
 ### Prepare to build a special tool for writing code based on [CodeX] : )  
 ### Prepare to write a version with GUI window : )  
 ### [Check the number of your tokens](https://platform.openai.com/tokenizer)Is it really necessary to do this? Of course, but only when your balance is short : )  
-### 2023/3/4公告  
+### 2023/3/4公告
 本程序不定期更新  
 最近OpenAI的墙变高了，国内API访问变得更麻烦了（比如达芬奇3），目前作者在找办法解决  
 beta4是目前支持gpt3.0的最后的版本，5代开始重构并使用最新的gpt3.5-turbo，但并不意味着gpt3.0已停止更新，未来将进行优化  
