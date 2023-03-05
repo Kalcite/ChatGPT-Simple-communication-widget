@@ -2,6 +2,7 @@ import openai
 import os
 import sys
 import win32gui, win32con
+#
 # 参数详情：https://zhuanlan.zhihu.com/p/606573556
 # 官方文档：
 # https://platform.openai.com/docs/api-reference/chat/create?lang=python
