@@ -12,8 +12,7 @@ Babbage price is $0.0005/1K tokens
 [价格参考](https://openai.com/pricing)
 These models have their own advantages. Please refer to the following official documents for details (there are options in the program)  
 ### [About Model Selection](https://platform.openai.com/docs/models)  
-### Prepare to build a special tool for writing code based on [CodeX] : )  
-### Prepare to write a version with GUI window : )  
+
 ### [Check the number of your tokens](https://platform.openai.com/tokenizer)Is it really necessary to do this? Of course, but only when your balance is short : )  
 ## 2023/3/4公告
 本程序不定期更新  
