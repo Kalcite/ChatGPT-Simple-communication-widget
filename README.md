@@ -20,6 +20,7 @@ These models have their own advantages. Please refer to the following official d
 最近OpenAI的墙变高了，国内API访问变得更麻烦了（比如达芬奇3），目前作者在找办法解决  
 beta4是目前支持gpt3.0的最后的版本，5代开始重构并使用最新的gpt3.5-turbo，但并不意味着gpt3.0已停止更新，未来将进行优化  
 目前最新的gpt3.5-turbo模型比原型机text-davinci-003更便宜，后者$0.02/1k tokens前者$0.002/1k tokens但前者更实用  
-
-目前已重写出了第五代基本代码
+## 3/11
+openai的封禁力度加强了，大家要注意一下，详细信息在我发的最新[release](https://github.com/Kalcite/ChatGPT-Simple-communication-widget/releases)中有写  
+最后发的版本很可能是第五代的最后一个版本了，gpt模型很快又要迭代了
 
